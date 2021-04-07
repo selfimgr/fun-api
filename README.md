@@ -12,3 +12,13 @@
 4. 本项目为开源项目，不接受任何的催单和索取行为
 
 ---
+
+
+
+### 生活服务
+
+#### 天气查询
+
+接口信息 | 接口说明 | 链接
+----|----|----
+Spring Boot | 容器+MVC框架 | [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
