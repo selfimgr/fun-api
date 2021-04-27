@@ -21,4 +21,4 @@
 
 接口信息 | 接口说明 | 链接
 ----|----|----
-Spring Boot | 容器+MVC框架 | [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+早晚API问候语与配图 | 返回早安与晚安的语录，并有配图 | [接口地址](https://www.fun-api.com/doc/salutation)
