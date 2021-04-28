@@ -21,7 +21,7 @@
 
 接口信息 | 接口说明 | 链接
 ----|----|----
-天气预报 | 支持城市天中文名称查询 | [接口地址](https://www.fun-api.com/doc/wether)
+天气预报 | 支持城市中文名称查询 | [接口地址](https://www.fun-api.com/doc/wether)
 
 #### 问候语录查询
 
